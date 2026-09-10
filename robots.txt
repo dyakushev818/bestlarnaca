@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestlarnaca.com/sitemap.xml
